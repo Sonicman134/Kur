@@ -1,0 +1,11 @@
+D:\Kur\Kur\bin\Debug\Kur.exe.config
+D:\Kur\Kur\bin\Debug\Kur.exe
+D:\Kur\Kur\bin\Debug\Kur.pdb
+D:\Kur\Kur\obj\Debug\Kur.csproj.AssemblyReference.cache
+D:\Kur\Kur\obj\Debug\Kur.Form1.resources
+D:\Kur\Kur\obj\Debug\Kur.FormProc.resources
+D:\Kur\Kur\obj\Debug\Kur.Properties.Resources.resources
+D:\Kur\Kur\obj\Debug\Kur.csproj.GenerateResource.cache
+D:\Kur\Kur\obj\Debug\Kur.csproj.CoreCompileInputs.cache
+D:\Kur\Kur\obj\Debug\Kur.exe
+D:\Kur\Kur\obj\Debug\Kur.pdb
